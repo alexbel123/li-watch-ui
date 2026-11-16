@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="demo">ДЕМО</string>
+    <string name="range">Запас хода</string>
+    <string name="electric">Электро</string>
+    <string name="fuel">Бензин</string>
+    <string name="distance_unit">км</string>
+    <string name="cabin">В салоне</string>
+    <string name="temperature">%1$s °C</string>
+    <string name="language">Язык приложения</string>
+    <string name="close">Закрыть</string>
+    <string name="demo_data">Демонстрационные данные</string>
+    <string name="range_description">%1$s: %2$s</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Li Watch UI</string>
+    <string name="demo">DEMO</string>
+    <string name="range">Range</string>
+    <string name="electric">Electric</string>
+    <string name="fuel">Gasoline</string>
+    <string name="distance_unit">km</string>
+    <string name="cabin">Cabin</string>
+    <string name="temperature">%1$s °C</string>
+    <string name="language">App language</string>
+    <string name="language_ru" translatable="false">Русский</string>
+    <string name="language_en" translatable="false">English</string>
+    <string name="close">Close</string>
+    <string name="demo_data">Sample data</string>
+    <string name="range_description">%1$s: %2$s</string>
+</resources>
